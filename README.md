@@ -53,3 +53,13 @@ This project consolidates 9 former standalone practice projects:
 - `react-with-typescript` â€” React + TypeScript course code
 
 The original projects were merged into route-based demos here.
+
+## Included Guide Websites
+
+| Folder | Topic |
+|--------|-------|
+| interview-prep-for-slot-gaming-frontend-developer/ | Slot gaming frontend developer interview prep (Next.js) |
+| seshu-react-interview-prep-guide-website/ | React interview preparation guide (Next.js) |
+
+These are standalone Next.js content sites — run 
+pm install && npm run dev inside each folder.
